@@ -6,7 +6,7 @@ export default function Root(props) {
       <div className="homepage-hero" style={{ margin: "5rem 0" }}>
         <img
           style={{ width: "100%" }}
-          src="https://blog.logrocket.com/wp-content/uploads/2019/05/logrocket-blog.jpg"
+          src="https://www.delltechnologies.com/uploads/2018/02/Dell-EMC-City-Night-1000x500.jpg"
         />
       </div>
       <h1 class="cover-heading">About Us!</h1>
